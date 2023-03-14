@@ -40,18 +40,15 @@ El encapsulamiento es la propiedad que permite ocultar la información de atribu
 
 El encapsulamiento es muy importante a la hora de programar ya que con forme se avanza en el código se declaran atributos y métodos que se utilizan en distintas partes del código, que al momento de utilizarlas en otras partes probablemente se modifiquen sus valores, lo cual nos perjudica ya que será difícil volver a sus valores anteriores cuando no se sabe cuando, ni como se modificaron.
 
-![image](https://user-images.githubusercontent.com/126824615/224860281-d417a138-e978-40c3-969c-3a868b35f43e.png)
-(En esta imagen se observa que las variables o atributos no estan encapsuladas ya que se declaran directamente con su tipo de dato).
+![image](https://user-images.githubusercontent.com/126824615/224860281-d417a138-e978-40c3-969c-3a868b35f43e.png) (En esta imagen se observa que las variables o atributos no estan encapsuladas ya que se declaran directamente con su tipo de dato).
 
-![image](https://user-images.githubusercontent.com/126824615/224860427-38182626-905d-42d4-a0eb-4584c2720d97.png)
-(En esta imagen los métodos y atributos estan declarados públicos y el acceso público es un nivel de acceso del encapsulamiento).
+![image](https://user-images.githubusercontent.com/126824615/224860427-38182626-905d-42d4-a0eb-4584c2720d97.png) (En esta imagen los métodos y atributos estan declarados públicos y el acceso público es un nivel de acceso del encapsulamiento).
 
 
 #5. Describe con tus palabras el concepto de herencia e ilustra el concepto con imágenes.
 La herencia en la programación es basicamente el compratir o pasar atributos de una clase a otra, siempre y cuando se esté partiendo de lo general a lo específico.
 
-![image](https://user-images.githubusercontent.com/126824615/224861813-cd9af43c-9412-479c-b603-f7031132c582.png)
-(En la imagen se observa observa una clase PADRE o clase General llamada VEHICULO la cual contiene ciertos atributos y por debajo de esta clase se encuentran otras dos con un atributo distinto de que las diferencia. A simple viste no se ve pero por medio de esas flechas se indica que las clases MOTO y COCHE están heredando los atribujtos de la clase VEHICULO, es decir, que también cuentan con los atributos de esta).
+![image](https://user-images.githubusercontent.com/126824615/224861813-cd9af43c-9412-479c-b603-f7031132c582.png) (En la imagen se observa observa una clase PADRE o clase General llamada VEHICULO la cual contiene ciertos atributos y por debajo de esta clase se encuentran otras dos con un atributo distinto de que las diferencia. A simple viste no se ve pero por medio de esas flechas se indica que las clases MOTO y COCHE están heredando los atribujtos de la clase VEHICULO, es decir, que también cuentan con los atributos de esta).
 
 
 
@@ -71,17 +68,13 @@ Actualmente el UML es muy utilizado por empresas grandes que se dedican o utiliz
 
 Ya que el UML es un modelo a seguir, consta de herramientas con significados especiales como lo son sus conexiones o conectores. Dentro de estas herramientas, los conectores más comúnes son:
 
--Las Asociaciones representan relaciones generales entre clases, y puede haber cardinalidad entre estas, es decir, tal clase puede tener un número de clases pero otra clase solo puede tener tal número de clases. Esta propiedad de represanta por rango, por ejemplo: #..# o #..* (el numero mínimo, luego se separa con dos puntos y luego el número máximo. En caso de que sea un límite infinito se pone *).
-![image](https://user-images.githubusercontent.com/126824615/224872095-17c99660-4733-4fef-9426-8218927606be.png)
+-Las Asociaciones representan relaciones generales entre clases, y puede haber cardinalidad entre estas, es decir, tal clase puede tener un número de clases pero otra clase solo puede tener tal número de clases. Esta propiedad de represanta por rango, por ejemplo: #..# o #..* (el numero mínimo, luego se separa con dos puntos y luego el número máximo. En caso de que sea un límite infinito se pone *).![image](https://user-images.githubusercontent.com/126824615/224872095-17c99660-4733-4fef-9426-8218927606be.png)
 
--La Composición indica que una clase solo puede estar compuesta por la clase indicada, y si se destruye la clase PADRE, se destruye también su composición.
-![image](https://user-images.githubusercontent.com/126824615/224872566-508c3912-cee1-44df-9f85-8dfa7c76af5c.png)
+-La Composición indica que una clase solo puede estar compuesta por la clase indicada, y si se destruye la clase PADRE, se destruye también su composición.![image](https://user-images.githubusercontent.com/126824615/224872566-508c3912-cee1-44df-9f85-8dfa7c76af5c.png)
 
--La Agregación es muy parecida a la composición, sin embargo no es tan fuerte o tan pura ya que si la clase PADRE no tiene una agregación no pierde mucho sentido.
-![image](https://user-images.githubusercontent.com/126824615/224872917-0c969c73-1846-45cd-b821-de4abf1abad7.png)
+-La Agregación es muy parecida a la composición, sin embargo no es tan fuerte o tan pura ya que si la clase PADRE no tiene una agregación no pierde mucho sentido.![image](https://user-images.githubusercontent.com/126824615/224872917-0c969c73-1846-45cd-b821-de4abf1abad7.png)
 
--La Generalización es como se representa la herencia, la cual va de los mas general a lo específico. Puede haber una generalización o generalización múltiple.
-![image](https://user-images.githubusercontent.com/126824615/224873313-bcc08489-9bcc-474b-bdb1-1068f8023aff.png)
+-La Generalización es como se representa la herencia, la cual va de los mas general a lo específico. Puede haber una generalización o generalización múltiple.![image](https://user-images.githubusercontent.com/126824615/224873313-bcc08489-9bcc-474b-bdb1-1068f8023aff.png)
 
 
 #2. Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones. Recuerda que puede haber composición (un teclado se compone de botones) y generalización (tipo de productos, tipo de pago).
