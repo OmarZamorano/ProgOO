@@ -17,8 +17,6 @@ TITULO: Portafolio de evidencias
 
 + Práctica #1 [CLASE PRODUCTO](https://docs.google.com/document/d/1rDYrlZrTwsQ5gM_Xy0mYY87Iz5xHSOpxROwU6CuU8x0/edit?usp=sharing)
 
-+ [Tarea UML](https://drive.google.com/file/d/1qGtukfLf1z1rjkii-jzSepm1ZzpmqKcu/view?usp=sharing)
-
-+ Práctica DOMINOES  
++ [Tarea UML](https://drive.google.com/file/d/1qGtukfLf1z1rjkii-jzSepm1ZzpmqKcu/view?usp=sharing) 
 
 + [Práctica DOMINOES](https://github.com/OmarZamorano/Dominoes)
