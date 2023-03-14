@@ -3,13 +3,13 @@
 ![image](https://user-images.githubusercontent.com/126824615/224875928-4d4da4a4-6ea2-4b4c-92c4-513e376cb66d.png)
 
 
-NOMBRE: Zamorano Garcia Omar
+# NOMBRE: Zamorano Garcia Omar
 
-NO.CONTROL: 22211676
+# NO.CONTROL: 22211676
 
-MATERIA: Programación orientada a objetos
+# MATERIA: Programación orientada a objetos
 
-TITULO: Portafolio de evidencias
+# TITULO: Portafolio de evidencias
 
 
 
