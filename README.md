@@ -19,4 +19,6 @@ TITULO: Portafolio de evidencias
 
 Práctica #1 CLASE PRODUCTO https://docs.google.com/document/d/1rDYrlZrTwsQ5gM_Xy0mYY87Iz5xHSOpxROwU6CuU8x0/edit?usp=sharing
 
-Tarea UML 
+Tarea UML file:///C:/Users/omarc/Downloads/POO%20UML.pdf
+
+Práctica DOMINOES  
