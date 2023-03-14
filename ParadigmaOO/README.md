@@ -1,11 +1,11 @@
-#Paradigma OO
+# Paradigma OO
 
-#1. Definición de Paradigma en el contexto de lenguajes de programación
+# 1. Definición de Paradigma en el contexto de lenguajes de programación
 
 Un paradigma en el área de la programaión es una forma de programas, siguiendo un modelo o ejemplo de estructura de código.
    
    
-#2. Definición de Programación Orientada a Objetos, ¿Cuál fue el primer lenguaje orientado a objetos, quienes y en dónde lo propusieron?
+# 2. Definición de Programación Orientada a Objetos, ¿Cuál fue el primer lenguaje orientado a objetos, quienes y en dónde lo propusieron?
 
 Es un paradigma o estilo de la programación que se basa en programar por medio de clases y objetos, es decir, se van construyendo clases las cuales cuentan con atributos y métodos que al ejecutar un objeto adquieren todo lo que se encuentra dentro de esta. Es así que la programación orientada a objetos es más efectiva ya que se crea un software solo con la manipulación e interacción de objetos entre si. 
 
@@ -25,13 +25,13 @@ Características de los objetos en smalltalk:
 --Tienen capacidad de procesamiento.
 
 
-#3. Define con tus palabras el concepto de abstracción, ¿Por qué se considera fundamental en programación?
+# 3. Define con tus palabras el concepto de abstracción, ¿Por qué se considera fundamental en programación?
 
 La abstracción son aquellas características de un objeto que lo diferencian de los demás.
 Para la porgramación, este concepto es fundamental ya que antes de porgramar se necesita analizar el dominio del programa, es decir, lo que va a hacer, como  va a funcionar y como se va a programar, lo que da resultado a un código muy largo, es por eso que se ve de una manera general, separada por clases y objetos, con el fin de que cada objeto interactue con otros por medio de métodos y características específicas.
    
    
-#4. Explica el concepto de encapsulamiento, busca dos imágenes que te ayuden a describir el concepto, una que tenga algún sistema sin encapsulamiento y otra donde sí lo tenga. Menciona porque es importante y qué problemas puede evitar.
+# 4. Explica el concepto de encapsulamiento, busca dos imágenes que te ayuden a describir el concepto, una que tenga algún sistema sin encapsulamiento y otra donde sí lo tenga. Menciona porque es importante y qué problemas puede evitar.
 
 El encapsulamiento es la propiedad que permite ocultar la información de atributos y métodos al resto del código. Existen 3 niveles de acceso:
  --Publico: Todos pueden acceder a los datos o métodos de una clase que se definen con este nivel.
@@ -49,7 +49,7 @@ El encapsulamiento es muy importante a la hora de programar ya que con forme se 
 (En esta imagen los métodos y atributos estan declarados públicos y el acceso público es un nivel de acceso del encapsulamiento).
 
 
-#5. Describe con tus palabras el concepto de herencia e ilustra el concepto con imágenes.
+# 5. Describe con tus palabras el concepto de herencia e ilustra el concepto con imágenes.
 La herencia en la programación es basicamente el compratir o pasar atributos de una clase a otra, siempre y cuando se esté partiendo de lo general a lo específico.
 
 ![image](https://user-images.githubusercontent.com/126824615/224861813-cd9af43c-9412-479c-b603-f7031132c582.png) 
@@ -58,9 +58,9 @@ La herencia en la programación es basicamente el compratir o pasar atributos de
 
 
 
-#UML: Diagrama de clases
+# UML: Diagrama de clases
 
-#1. Investiga la historia y haz un resumen del Lenguaje de Modelado Unificado, donde se mencione: quienes son sus principales autores (Booch, Rumbaugh, Jacobson), en que tipo de sistemas se utiliza, que tan utilizado es en años recientes, en particular el Diagrama de Clases. Menciona algunas de las herramientas para el modelado en UML. ¿Sabes de alguna empresa local que utilice este lenguaje?
+# 1. Investiga la historia y haz un resumen del Lenguaje de Modelado Unificado, donde se mencione: quienes son sus principales autores (Booch, Rumbaugh, Jacobson), en que tipo de sistemas se utiliza, que tan utilizado es en años recientes, en particular el Diagrama de Clases. Menciona algunas de las herramientas para el modelado en UML. ¿Sabes de alguna empresa local que utilice este lenguaje?
 
 UML que sus siglas significan Lenguaje Unificado de Modelado, es un modelo que se utiliza para representar, visualizar, construir y documentar el funcionamiento de un programa por medio de clases y sus interacciones entre si. Dicho modelo fue creado por Booch, Rumbaugh y Jacobson. UML se enfoca en tres modelos de sistemas:
 
@@ -91,5 +91,5 @@ Ya que el UML es un modelo a seguir, consta de herramientas con significados esp
 ![image](https://user-images.githubusercontent.com/126824615/224873313-bcc08489-9bcc-474b-bdb1-1068f8023aff.png)
 
 
-#2. Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones. Recuerda que puede haber composición (un teclado se compone de botones) y generalización (tipo de productos, tipo de pago).
+# 2. Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones. Recuerda que puede haber composición (un teclado se compone de botones) y generalización (tipo de productos, tipo de pago).
 
