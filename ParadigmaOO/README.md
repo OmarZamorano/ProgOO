@@ -93,3 +93,4 @@ Ya que el UML es un modelo a seguir, consta de herramientas con significados esp
 
 # 2. Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones. Recuerda que puede haber composición (un teclado se compone de botones) y generalización (tipo de productos, tipo de pago).
 
+![Maquina Expendedora](https://user-images.githubusercontent.com/126824615/225427705-50373661-4d39-4ee2-8179-0eb03e5f88f2.png)
