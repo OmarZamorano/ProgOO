@@ -14,15 +14,15 @@ El primer lenguaje de programación que se utilizó para seguir este paradigma f
 En Smalltalk se interactúa entre objetos mediante el envío de mensajes Es multiplataforma y puede compilar en tiempo de ejecución o interpretado. Smalltalk tuvo gran influencia en la creación de otros lenguajes como Java o Ruby.
 
 Todo en smalltalk es un objeto que puede hacer 3 cosas:
---Mantener un estado.
---Recibir mensajes de si mismo o de otros objetos.
---En el curso de procesar un mensaje, enviarse un mensaje el mismo o a los demás objetos.
++ Mantener un estado.
++ Recibir mensajes de si mismo o de otros objetos.
++ En el curso de procesar un mensaje, enviarse un mensaje el mismo o a los demás objetos.
 
 Características de los objetos en smalltalk:
---Tienen una memoria propia.
---Poseen capacidad para comunicarse con otros objetos.
---Poseen la capacidad de heredar características de objetos ancestros.
---Tienen capacidad de procesamiento.
++ Tienen una memoria propia.
++ Poseen capacidad para comunicarse con otros objetos.
++ Poseen la capacidad de heredar características de objetos ancestros.
++ Tienen capacidad de procesamiento.
 
 
 # 3. Define con tus palabras el concepto de abstracción, ¿Por qué se considera fundamental en programación?
@@ -34,9 +34,9 @@ Para la porgramación, este concepto es fundamental ya que antes de porgramar se
 # 4. Explica el concepto de encapsulamiento, busca dos imágenes que te ayuden a describir el concepto, una que tenga algún sistema sin encapsulamiento y otra donde sí lo tenga. Menciona porque es importante y qué problemas puede evitar.
 
 El encapsulamiento es la propiedad que permite ocultar la información de atributos y métodos al resto del código. Existen 3 niveles de acceso:
- --Publico: Todos pueden acceder a los datos o métodos de una clase que se definen con este nivel.
- --privado: En este nivel los miembros son accesibles sólo para la propia clase.
- --Protegido: Este no es de acceso público pero solamente son accesibles dentro de su clase y por subclases.
++ Publico: Todos pueden acceder a los datos o métodos de una clase que se definen con este nivel.
++ privado: En este nivel los miembros son accesibles sólo para la propia clase.
++ Protegido: Este no es de acceso público pero solamente son accesibles dentro de su clase y por subclases.
 
 El encapsulamiento es muy importante a la hora de programar ya que con forme se avanza en el código se declaran atributos y métodos que se utilizan en distintas partes del código, que al momento de utilizarlas en otras partes probablemente se modifiquen sus valores, lo cual nos perjudica ya que será difícil volver a sus valores anteriores cuando no se sabe cuando, ni como se modificaron.
 
@@ -64,9 +64,9 @@ La herencia en la programación es basicamente el compratir o pasar atributos de
 
 UML que sus siglas significan Lenguaje Unificado de Modelado, es un modelo que se utiliza para representar, visualizar, construir y documentar el funcionamiento de un programa por medio de clases y sus interacciones entre si. Dicho modelo fue creado por Booch, Rumbaugh y Jacobson. UML se enfoca en tres modelos de sistemas:
 
-+El modelo funcional, representado en UML, con diagramas de caso de uso, describe la funcionalidad del sistema desde el punto de vista del usuario.
++ El modelo funcional, representado en UML, con diagramas de caso de uso, describe la funcionalidad del sistema desde el punto de vista del usuario.
 
-+El modelo de objetos, representado en UML con diagramas de clase, describe la estructura de un sistema desde el punto de vista de objetos, atributos, asociaciones y operaciones.
++ El modelo de objetos, representado en UML con diagramas de clase, describe la estructura de un sistema desde el punto de vista de objetos, atributos, asociaciones y operaciones.
 
 +El modelo dinámico, representado en UML con diagramas de secuencia, diagramas de estado y diagramas de actividad, describen el comportamiento interno del sistema. Los diagramas de secuencia describen el comportamiento como una secuencia de mensajes intercambiados entre un conjunto de objetos, mientras que los diagramas de gráfica de estado describen el comportamiento desde el punto de vista de estados de un objeto individual y las transiciones posibles entre estados.
 
@@ -74,7 +74,7 @@ Actualmente el UML es muy utilizado por empresas grandes que se dedican o utiliz
 
 Ya que el UML es un modelo a seguir, consta de herramientas con significados especiales como lo son sus conexiones o conectores. Dentro de estas herramientas, los conectores más comúnes son:
 
--Las Asociaciones representan relaciones generales entre clases, y puede haber cardinalidad entre estas, es decir, tal clase puede tener un número de clases pero otra clase solo puede tener tal número de clases. Esta propiedad de represanta por rango, por ejemplo: #..# o #..* (el numero mínimo, luego se separa con dos puntos y luego el número máximo. En caso de que sea un límite infinito se pone *).
++ Las Asociaciones representan relaciones generales entre clases, y puede haber cardinalidad entre estas, es decir, tal clase puede tener un número de clases pero otra clase solo puede tener tal número de clases. Esta propiedad de represanta por rango, por ejemplo: #..# o #..* (el numero mínimo, luego se separa con dos puntos y luego el número máximo. En caso de que sea un límite infinito se pone *).
 
 ![image](https://user-images.githubusercontent.com/126824615/224872095-17c99660-4733-4fef-9426-8218927606be.png)
 
