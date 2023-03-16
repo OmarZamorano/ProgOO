@@ -68,7 +68,7 @@ UML que sus siglas significan Lenguaje Unificado de Modelado, es un modelo que s
 
 + El modelo de objetos, representado en UML con diagramas de clase, describe la estructura de un sistema desde el punto de vista de objetos, atributos, asociaciones y operaciones.
 
-+El modelo dinámico, representado en UML con diagramas de secuencia, diagramas de estado y diagramas de actividad, describen el comportamiento interno del sistema. Los diagramas de secuencia describen el comportamiento como una secuencia de mensajes intercambiados entre un conjunto de objetos, mientras que los diagramas de gráfica de estado describen el comportamiento desde el punto de vista de estados de un objeto individual y las transiciones posibles entre estados.
++ El modelo dinámico, representado en UML con diagramas de secuencia, diagramas de estado y diagramas de actividad, describen el comportamiento interno del sistema. Los diagramas de secuencia describen el comportamiento como una secuencia de mensajes intercambiados entre un conjunto de objetos, mientras que los diagramas de gráfica de estado describen el comportamiento desde el punto de vista de estados de un objeto individual y las transiciones posibles entre estados.
 
 Actualmente el UML es muy utilizado por empresas grandes que se dedican o utilizan algun software por la gran facilidad de entender el objetivo de los programas por medio de un recurso visual, más que nada para darlo a entender a las personas que no estan familiarizadas con el tema de la programación. Por ejemplo APPLE, AMAZON, SPACE X, TESLA MOTORS, NVIDIA, etc.
 
